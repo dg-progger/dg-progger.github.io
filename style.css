@@ -1,0 +1,86 @@
+body
+{
+    
+    background-color: #222222;
+}
+
+.container
+{
+    box-sizing: content-box;
+       max-width: 1200px;
+       margin-left: auto;
+       margin-right: auto; 
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    box-sizing: content-box;
+       max-width: 1200px;
+       margin-left: auto;
+       margin-right: auto; 
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.justify-content-md-left-3-list{
+    max-width: 250px;
+    min-width: 250px;
+}
+.logo
+{
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.pic
+{
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.list{
+    list-style-type: none;
+    max-width: 250px;
+    min-width: 250px;
+}
+
+.list_item:hover
+{
+    color: #00c2cb;
+}
+
+.col-md-4-big1:hover, .header1:hover{
+    color: #ff1616;
+}
+
+.head:hover
+{
+    color: #ff1616;
+}
+
+.adv
+{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+  text-decoration: none
+}
+
+a:hover{
+    text-decoration: none;
+    color: #ff1616;
+}
+
+.mission, .about, .whyus, .companies, .students{
+    font-size: 25pt;
+    /* text-align: center; */
+    text-indent: 20px;
+    margin-top: 50px;
+}
+
